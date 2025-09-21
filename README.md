@@ -60,6 +60,6 @@ Use filters to explore teams, players, and performances.
 📍 New Delhi, India
 📧 mohammadlaraib96@gmail.com
 
-🔗 LinkedIn
+🔗 linkedin.com/in/mohammad-laraib-
 
 💼 Open to Freelance Projects | Data Analytics | Dashboard Development
